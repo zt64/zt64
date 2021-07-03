@@ -7,6 +7,4 @@ In my spare time I enjoy programming random things and sometimes things that are
 [Open In-App](https://github.com/Litleck/open-in-app) - Adds support to open URLs in their related apps.<br>
 [Mic Capture](https://github.com/Litleck/mic-capture) - Adds a button to record short audio clips and send them as a message.<br>
 
-## Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litleck&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litleck&theme=dark&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/my-github-user/litleck/blob/master/github-metrics.svg)
