@@ -1355,11 +1355,11 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="389.04840535718364" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="389.04840535718364" y="0" width="26.68896466070467" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="389.04840535718364" y="0" width="26.68896466070467" height="8" fill="#222c37"/>
                     <rect mask="url(#languages-bar)" x="415.73737001788834" y="0" width="22.372296919795723" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="438.10966693768404" y="0" width="12.156125652240894" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="450.2657925899249" y="0" width="5.093128134752181" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.3589207246771" y="0" width="2.783690285256126" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.3589207246771" y="0" width="2.783690285256126" height="8" fill="#aace60"/>
                     <rect mask="url(#languages-bar)" x="458.1426110099332" y="0" width="1.190483966861697" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="459.33309497679494" y="0" width="0.6669050232050785" height="8" fill="#563d7c"/>
                 </svg>
@@ -1369,7 +1369,7 @@
                 C#
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#222c37" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 ShaderLab
               </div>
                     <div class="field center no-wrap language">
@@ -1385,7 +1385,7 @@
                 Java
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#aace60" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 HLSL
               </div>
                     <div class="field center no-wrap language">
@@ -1578,7 +1578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/08/2021, 06:20 (timezone America/New_York) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 02/08/2021, 07:16 (timezone America/New_York) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
