@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Frontesque/VueTube</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/catppuccin</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2022, 05:16:22 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 06:18:59 (timezone America/New_York) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
