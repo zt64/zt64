@@ -1,3 +1,3 @@
-Hi
+Hi, I'm a student studying computer science.
 
-Feel free to support me on https://ko-fi.com/thezt
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R07VQ8X)
