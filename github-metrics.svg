@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fwupd/fwupd</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A system daemon to allow session software to update firmware</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2022, 01:30:26 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 02:24:36 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
