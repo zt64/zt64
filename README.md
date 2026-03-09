@@ -12,7 +12,7 @@ I'm a student studying Applied Computer Science with a strong interest in softwa
 
 ## 🛠️ Tech Stack:
 
-![](https://skillicons.dev/icons?i=js,ts,html,css,kotlin,java,c,cpp,cs,lua)
+![](https://skillicons.dev/icons?i=kotlin,java,c,cpp,cs,py,js,ts,html,css)
 
 <p>
   <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle&logoColor=white" />
